@@ -1,0 +1,8 @@
+management:
+   endpoints:
+      web:
+         exposure:
+            include: "*"
+course:
+   message: Desde perfil -> dev
+server.port: 8091
